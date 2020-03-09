@@ -1,61 +1,64 @@
 {
-   "categories":{
-	"books": [
-	  "Horror", "History", "Sci-Fi", "Nature"
-	],
-	"articles": [
-	  "History", "Health", "Lifestyle", "Fashion", "Politics"
-	]
-   },
-   "categories/books"{
-     "History": [
-	    "1"
-	 ],
-     "Horror": [
-	    "1"
-	 ],
-     "Sci-Fi": [
-	    "1"
-	 ],
-     "Nature": [
-	    "1"
-	 ]
-   },
-   "categories/articles"{
-     "History": [
-	    "1"
-	 ],
-     "Health": [
-	    "1"
-	 ],
-     "Lifestyle": [
-	    "1"
-	 ],
-     "Fashion": [
-	    "1"
-	 ],
-     "Politics": [
-	    "1"
-	 ]
-   },
-   "books":{
-      "1":{
-		{
-		   "id": 1,
-		   "title": "Frankestein",
-		   "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
-		   "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt"
-		}
-	  }
-   },
-   "articles":{
-      "1":{
-		{
-		   "id": 1,
-		   "title": "Article 1",
-		   "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
-		   "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt"
-		}
-	  }
-   }
+  "categories": {
+    "books": [
+      "Horror",
+      "History",
+      "Sci-Fi",
+      "Nature"
+    ],
+    "articles": [
+      "History",
+      "Health",
+      "Lifestyle",
+      "Fashion",
+      "Politics"
+    ]
+  },
+  "categories/books": {
+    "History": [
+      "1"
+    ],
+    "Horror": [
+      "1"
+    ],
+    "Sci-Fi": [
+      "1"
+    ],
+    "Nature": [
+      "1"
+    ]
+  },
+  "categories/articles": {
+    "History": [
+      "1"
+    ],
+    "Health": [
+      "1"
+    ],
+    "Lifestyle": [
+      "1"
+    ],
+    "Fashion": [
+      "1"
+    ],
+    "Politics": [
+      "1"
+    ]
+  },
+  "books": [
+    {
+      "id": 1,
+      "title": "Frankestein",
+      "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Article 1",
+      "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt"
+    }
+  ]
 }
