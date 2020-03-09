@@ -14,7 +14,7 @@
       "Politics"
     ]
   },
-  "categories/books": {
+  "categories_books": {
     "History": [
       "1"
     ],
@@ -28,7 +28,7 @@
       "1"
     ]
   },
-  "categories/articles": {
+  "categories_articles": {
     "History": [
       "1"
     ],
