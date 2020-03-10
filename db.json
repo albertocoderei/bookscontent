@@ -81,7 +81,7 @@
       "id": 1,
       "title": "Frankestein",
       "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
-      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt",
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent_en/master/book_1.txt",
 	  "infoWords": [
 		{
 			"key": "birth",
@@ -96,7 +96,7 @@
       "id": 1,
       "title": "Article 1",
       "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
-      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent/master/book_1.txt",
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent_en/master/book_1.txt",
 	  "infoWords": [
 		{
 			"key": "birth",
