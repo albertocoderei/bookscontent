@@ -81,6 +81,9 @@
       "id": 1,
       "title": "Frankestein",
       "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "author": "Mary Shelley",
+      "year": 1865,
+      "pages": 78,
       "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent_en/master/book_1.txt",
 	  "infoWords": [
 		{
@@ -96,6 +99,9 @@
       "id": 1,
       "title": "Article 1",
       "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "author": "Mary Shelley",
+      "year": 1865,
+      "pages": 2,
       "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent_en/master/book_1.txt",
 	  "infoWords": [
 		{
