@@ -47,7 +47,7 @@
   },
   "categories_books": {
     "History": [
-      "1"
+      "1", "2", "3"
     ],
     "Horror": [
       "1"
@@ -80,6 +80,38 @@
     {
       "id": 1,
       "title": "Frankestein",
+      "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "author": "Mary Shelley",
+      "year": 1865,
+      "pages": 78,
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent_en/master/book_1.txt",
+	  "infoWords": [
+		{
+			"key": "birth",
+			"word": "Birth",
+			"pronunciation": "bɜː(r)θ"
+		}
+	  ]
+    },
+    {
+      "id": 2,
+      "title": "Frankestein2",
+      "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
+      "author": "Mary Shelley",
+      "year": 1865,
+      "pages": 78,
+      "content": "https://raw.githubusercontent.com/albertocoderei/bookscontent_en/master/book_1.txt",
+	  "infoWords": [
+		{
+			"key": "birth",
+			"word": "Birth",
+			"pronunciation": "bɜː(r)θ"
+		}
+	  ]
+    },
+    {
+      "id": 3,
+      "title": "Frankestein2",
       "thumbnail": "https://ichef.bbci.co.uk/news/410/cpsprodpb/11A60/production/_99288227_karloff-2.jpg",
       "author": "Mary Shelley",
       "year": 1865,
